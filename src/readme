@@ -1,0 +1,4 @@
+How to play:
+Type in the row number and column number of the space you would like to hit.
+if hit, you will receive a message saying that you hit a ship, and a "X" will prompt on the space you hit.
+if missed, you will receive a message saying that you've missed and a "0" will prompt on the space you missed.
